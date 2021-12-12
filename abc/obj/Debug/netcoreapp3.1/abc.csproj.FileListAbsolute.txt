@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.exe
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.deps.json
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.runtimeconfig.json
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.runtimeconfig.dev.json
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.dll
+C:\Users\user\source\repos\abc\abc\bin\Debug\netcoreapp3.1\abc.pdb
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.AssemblyInfo.cs
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.dll
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.pdb
+C:\Users\user\source\repos\abc\abc\obj\Debug\netcoreapp3.1\abc.genruntimeconfig.cache
